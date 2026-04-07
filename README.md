@@ -26,7 +26,7 @@ Flourish is an intelligent and user-friendly Android budgeting app designed to s
 17. [GitHub and GitHub Actions Usage](#github-and-github-actions-usage)
 18. [Contributing](#contributing)
 19. [Reference List](#reference-list)
-20. [Group Members](#Group-Members)
+
 
 ## 🟢Introduction
 
@@ -378,11 +378,7 @@ Android Developers. n.d.-a. CameraX overview | Android media | Android Developer
 
 OpenAI. 2024. Chat-GPT (Version 4). [Large language model]. Available at: [https://chat.openai.com](https://chat.openai.com) [Accessed: 2 April 2025].
 
-## 🟠 Group Members
-- Aisha Bilal Jakhura - ST10268917
-- Khatija Moosa Amod - ST10258766
-- Atiyyah Moola - ST10053786
-- Yashna Komla - ST10202387
+
 
 
 
